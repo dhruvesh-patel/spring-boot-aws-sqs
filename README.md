@@ -1,0 +1,1 @@
+This repo demonstrates how to send message on AWS SQS queue using java 11 based spring boot application.
