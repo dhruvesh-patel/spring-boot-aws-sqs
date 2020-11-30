@@ -1,4 +1,4 @@
-This repo demonstrates how to send message on AWS SQS queue and then consume message using java 11 based spring boot application and spring cloud aws messaging. For Event-driven architectures and asynchonous communication AWS SQS offers a way achieve loose-coupling across multiple services or apps.
+This repo demonstrates how to send message on AWS SQS queue and then consume message using java 11 based spring boot application and spring cloud aws messaging. For Event-driven architectures and asynchronous communication AWS SQS offers a way achieve loose-coupling across multiple services or apps.
 
 Pre-requisite:
 1) JDK 11
